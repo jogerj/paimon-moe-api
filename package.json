@@ -15,7 +15,7 @@
   "author": "Made Baruna",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "bull": "^3.26.0",
     "cron": "^1.8.2",
     "dayjs": "^1.10.4",
@@ -29,12 +29,12 @@
     "ioredis": "^4.28.1",
     "nano-memoize": "^1.2.1",
     "nanoid": "^3.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-schedule": "^2.0.0",
     "p-retry": "^4.6.1",
     "pg": "^8.5.1",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.31",
+    "typeorm": "^0.3.0",
     "xxhash": "^0.3.0"
   },
   "devDependencies": {
